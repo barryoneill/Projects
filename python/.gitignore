@@ -1,0 +1,4 @@
+
+# ignore IDEA(PyCharm) folder
+.idea/
+
